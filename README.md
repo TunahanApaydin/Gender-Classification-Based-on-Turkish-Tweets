@@ -10,4 +10,4 @@ For Tf-idf: XGBoost, K-Neighbors, SVC, Logistic Regression, Multinomial NB, MLP,
 
 For others:XGBoost, K-Neighbors, SVC, Logistic Regression, Decision Tree, Random Forest.
 
-You can see the accuracy results in repo. If you run the main.py you can see the ROC and confusion matrix results for all feature extraction models.
+You can see the accuracy results in repo. If you run the main.py you can see the ROC and confusion matrix results for all feature extraction methods.
