@@ -1,6 +1,6 @@
 # Gender-Classification-Based-on-Turkish-Tweets
 
-This project aims to classify gender based on turkish tweets.
+This project aims to classify gender based on Turkish tweets.
 
 Three different methods were used for feature extraction. These are: Tf-idf, Word2Vec and GloVe.
 Eight classification methods were used for Tf-idf and six classification methods were used for Word2Vec and GloVe.
